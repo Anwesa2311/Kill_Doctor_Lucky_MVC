@@ -1,0 +1,50 @@
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+createmap
+Your map is created and saved as worldMap3.png
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+q

@@ -1,0 +1,707 @@
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addhumanplayer
+Please enter the player name to add
+a
+Please enter the room you want the player to be in
+0
+Player added suceessfully
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+movepet
+please enter the player name to move the pet
+a
+Please enter the room num to move the pet
+3
+player name = a
+player type = HUMAN
+player position =room num 0
+items = No items
+ 
+roomNum = 0
+roomName = Armory
+roomDimension = 22, 19, 23, 26
+Below are the roomitems
+ItemName = Revolver
+ItemDamage = 3
+
+the players are
+[a]
+pet=Fortune the Cat
+target=Doctor Lucky
+
+move successful to room = 3
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showpet
+Unknown command showpet
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 0
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 0
+roomName = Armory
+roomDimension = 22, 19, 23, 26
+ItemName = Revolver
+ItemDamage = 3
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 0
+items = No items
+ 
+neighbors = [Billiard Room, Drawing Room]
+Below is the neighbor details
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+ItemName = Billiard Cue
+ItemDamage = 2
+
+no players
+pet=No pet
+target=Doctor Lucky
+
+Below is the neighbor details
+roomNum = 4
+roomName = Drawing Room
+roomDimension = 22, 13, 25, 18
+ItemName = Letter Opener
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 1
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 0
+roomName = Armory
+roomDimension = 22, 19, 23, 26
+ItemName = Revolver
+ItemDamage = 3
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 0
+items = No items
+ 
+neighbors = [Billiard Room, Drawing Room]
+Below is the neighbor details
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+ItemName = Billiard Cue
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 4
+roomName = Drawing Room
+roomDimension = 22, 13, 25, 18
+ItemName = Letter Opener
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 0
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 0
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+movepet
+please enter the player name to move the pet
+a
+Please enter the room num to move the pet
+0
+Pet already exists in that position
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 0
+roomName = Armory
+roomDimension = 22, 19, 23, 26
+ItemName = Revolver
+ItemDamage = 3
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 0
+items = No items
+ 
+neighbors = [Billiard Room, Drawing Room]
+Below is the neighbor details
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+ItemName = Billiard Cue
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 4
+roomName = Drawing Room
+roomDimension = 22, 13, 25, 18
+ItemName = Letter Opener
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 1
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 0
+roomName = Armory
+roomDimension = 22, 19, 23, 26
+ItemName = Revolver
+ItemDamage = 3
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 0
+items = No items
+ 
+neighbors = [Billiard Room, Drawing Room]
+Below is the neighbor details
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+ItemName = Billiard Cue
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 4
+roomName = Drawing Room
+roomDimension = 22, 13, 25, 18
+ItemName = Letter Opener
+ItemDamage = 2
+
+no players
+pet=No pet
+target=Doctor Lucky
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showPet
+pet name = Fortune the Cat 
+ pet pos = 0
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+showPet :this command will show the details of the pet in the worls
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player to Poke in the eye of the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+

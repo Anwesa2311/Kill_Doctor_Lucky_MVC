@@ -1,0 +1,575 @@
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addhumanplayer
+Please enter the player name to add
+Anwesa
+Please enter the room you want the player to be in
+1
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+display
+Please enter the player name to display
+Anwesa
+player name = Anwesa
+player type = HUMAN
+player position =room num 1
+items = No items
+ 
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addcomputer
+Please enter the player name to add
+Comp
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+display
+Please enter the player name to display
+Comp
+player name = Comp
+player type = COMPUTER
+player position =room num 4
+items = No items
+ 
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showturn
+Anwesa
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+displayroom
+Please enter the room num to display
+1
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+Below are the roomitems
+ItemName = Billiard Cue
+ItemDamage = 2
+
+the players are
+[Anwesa]
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+pick
+Please enter the player name to perform this action
+Anwesa
+Please enter the item name to pick
+Billiard Cue
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showturn
+Comp
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+displayroom
+Please enter the room num to display
+4
+roomNum = 4
+roomName = Drawing Room
+roomDimension = 22, 13, 25, 18
+Below are the roomitems
+ItemName = Letter Opener
+ItemDamage = 2
+
+the players are
+[Comp]
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+pick
+Please enter the player name to perform this action
+Comp
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+display
+Please enter the player name to display
+Comp
+player name = Comp, player type = COMPUTER, player position = 4, items = [Letter Opener] 
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showturn
+Anwesa
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+Anwesa
+Current roomno = 1
+Current roomname = Billiard Room
+neighbors = [Armory, Dining Hall, Trophy Room]
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+Comp
+Current roomno = 4
+Current roomname = Drawing Room
+neighbors = [Armory, Dining Hall, Foyer, Wine Cellar]
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+
+showturn
+Anwesa
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+move
+Please enter the player name to move
+Anwesa
+Please enter the room name to move
+Armory
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+display
+Please enter the player name to display
+Anwesa
+player name = Anwesa, player type = HUMAN, player position = 0, items = [Billiard Cue] 
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+move
+Please enter the player name to move
+Comp
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+display
+Please enter the player name to display
+Comp
+player name = Comp, player type = COMPUTER, player position = 19, items = [Letter Opener] 
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+display: this command will display information of a player
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+displayroom:this command will display the details of a room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+Anwesa
+Current roomno = 0
+Current roomname = Armory
+neighbors = [Billiard Room, Dining Hall, Drawing Room]
+The game is over as it reached max turns

@@ -1,0 +1,45 @@
+18 29 Team Rocket's Den
+100 Leader Giovanni
+Persian the Cat
+20
+6 28 12 29 Door
+0 0 6 6 Winners Lounge
+6 12 12 28 Onix Stairwell
+0 12 6 16 Tickling Pikachu 
+12 24 18 28 Jumping Jinx
+0 16 6 20 Flipping Fearow
+3 3 6 9 Proxy Palkia
+6 0 12 3 Giovanni's Challenge
+12 20 18 24 Howling Ghastly
+0 20 6 24 Curious Charmeleon
+6 6 12 12 Gyrating Giratina
+12 16 18 20 Karate Chopping Riolu
+0 24 6 28 Vain Venusaur
+12 0 18 3 Loser's Pit 
+9 3 18 6 Dialga Dungeon
+12 12 18 16 Skull Bashing Squirtle
+3 28 6 29 Window
+12 28 15 29 Pidgey Cage
+6 12 12 18 Mankey Bar
+3 6 6 12 Primeape Parlour
+20
+6 6 Random Attacker
+14 14 Diabolical Dialga
+0 5 Welcome Mat
+0 1 Welcome Drink
+10 10 Gyroscope
+5 5 Feather of Doom
+9 9 Flaming Charcoal
+15 15 Shell Armor
+16 16 Glass Shard
+17 3 Bird Poop
+18 7 Shot Glass
+19 16 Premiere Punch
+8 8 Spine Chill
+1 1 Winner's Medal
+3 3 Oak's Blessings
+4 4 Moo Moo Milk
+6 6 Pinap Berry
+7 7 Ultra Ball
+14 3 Leek
+1 50 Positive Frame of Mind

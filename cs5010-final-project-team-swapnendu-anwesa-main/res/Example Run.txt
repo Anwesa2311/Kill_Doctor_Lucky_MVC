@@ -1,0 +1,78 @@
+Please enter filename
+The name of the world is:-Doctor Lucky's Mansion
+The world has total no of rooms:-21
+The target char name is:-Doctor Lucky
+The target health is:-50
+Showing the details of room 4
+room number is:-4
+room name is:-Drawing Room
+item name is:-Letter Opener
+item damage is:-2
+The room has total neighbors =4
+neighbor name is;-Armory
+neighbor room num is:-0
+item name is:-Revolver
+item damage is:-3
+neighbor name is;-Dining Hall
+neighbor room num is:-3
+No Items in this room
+neighbor name is;-Foyer
+neighbor room num is:-5
+No Items in this room
+neighbor name is;-Wine Cellar
+neighbor room num is:-19
+item name is:-Rat Poison
+item damage is:-2
+item name is:-Piece of Rope
+item damage is:-2
+Showing the details of room 6
+room number is:-6
+room name is:-Green House
+item name is:-Trowel
+item damage is:-2
+item name is:-Pinking Shears
+item damage is:-2
+The room has total neighbors =1
+neighbor name is;-Hedge Maze
+neighbor room num is:-7
+item name is:-Loud Noise
+item damage is:-2
+Showing the details of room 9
+room number is:-9
+room name is:-Lancaster Room
+item name is:-Silken Cord
+item damage is:-3
+The room has total neighbors =2
+neighbor name is;-Lilac Room
+neighbor room num is:-11
+item name is:-Tight Hat
+item damage is:-2
+neighbor name is;-Servants' Quarters
+neighbor room num is:-16
+item name is:-Broom Stick
+item damage is:-2
+Showing the details of room 8
+room number is:-8
+room name is:-Kitchen
+item name is:-Crepe Pan
+item damage is:-3
+item name is:-Sharp Knife
+item damage is:-3
+The room has total neighbors =3
+neighbor name is;-Dining Hall
+neighbor room num is:-3
+No Items in this room
+neighbor name is;-Parlor
+neighbor room num is:-14
+No Items in this room
+neighbor name is;-Wine Cellar
+neighbor room num is:-19
+item name is:-Rat Poison
+item damage is:-2
+item name is:-Piece of Rope
+item damage is:-2
+The current position of the target is room 0
+Moving the target to next position
+The current position of the target is room 1
+Moving the target to next position
+The current position of the target is room 2

@@ -1,0 +1,265 @@
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addhumanplayer
+Please enter the player name to add
+a
+Please enter the room you want the player to be in
+1
+Player added suceessfully
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+pick
+Please enter the player name to perform this action
+a
+Please enter the item name to pick
+Billiard Cue
+player name = a
+player type = HUMAN
+player position =room num 1
+items = No items
+ 
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+ItemName = Billiard Cue
+ItemDamage = 2
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Pick item is successful
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+attackTarget
+Please enter the player name to attack target
+a
+Please enter the item name to attack
+Billiard Cue
+Attack successful with damage = 2
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 1
+roomName = Billiard Room
+roomDimension = 16, 21, 21, 28
+No Items in this room
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 1
+items = No items
+ 
+neighbors = [Dining Hall, Trophy Room]
+Below is the neighbor details
+roomNum = 3
+roomName = Dining Hall
+roomDimension = 12, 11, 21, 20
+No Items in this room
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 18
+roomName = Trophy Room
+roomDimension = 10, 21, 15, 26
+ItemName = Duck Decoy
+ItemDamage = 3
+ItemName = Monkey Hand
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addcomputer
+Please enter the player name to add
+4
+Please enter the position for the player to add
+4
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+computerAction
+Please enter the player name to add
+4
+Computer player chose to poke in the eye of target with damage 1
+The game is over and the winner is:-4 

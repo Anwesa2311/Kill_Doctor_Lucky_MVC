@@ -1,0 +1,557 @@
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+addhumanplayer
+Please enter the player name to add
+a
+Please enter the room you want the player to be in
+2
+Player added suceessfully
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+
+addhumanplayer
+Please enter the player name to add
+b
+Please enter the room you want the player to be in
+7
+Player added suceessfully
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+pick
+Please enter the player name to perform this action
+a
+Please enter the item name to pick
+Chain Saw
+player name = a
+player type = HUMAN
+player position =room num 2
+items = No items
+ 
+roomNum = 2
+roomName = Carriage House
+roomDimension = 28, 0, 35, 5
+ItemName = Chain Saw
+ItemDamage = 4
+ItemName = Big Red Hammer
+ItemDamage = 4
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Pick item is successful
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+b
+Current roomdetails =
+roomNum = 7
+roomName = Hedge Maze
+roomDimension = 30, 20, 35, 25
+ItemName = Loud Noise
+ItemDamage = 6
+
+the players are
+[b]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = b
+player type = HUMAN
+player position =room num 7
+items = No items
+ 
+neighbors = [Green House, Piazza]
+Below is the neighbor details
+roomNum = 6
+roomName = Green House
+roomDimension = 28, 26, 35, 29
+ItemName = Trowel
+ItemDamage = 2
+ItemName = Pinking Shears
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 15
+roomName = Piazza
+roomDimension = 28, 12, 35, 19
+ItemName = Civil War Cannon
+ItemDamage = 3
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showTarget
+Target Name=Doctor Lucky
+Target Health=10
+Target Position=2
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+showturn
+a
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+attackTarget
+Please enter the player name to attack target
+a
+Please enter the item name to attack
+Chain Saw
+Attack successful with damage = 4
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+pick
+Please enter the player name to perform this action
+b
+Please enter the item name to pick
+Loud Noise
+player name = b
+player type = HUMAN
+player position =room num 7
+items = No items
+ 
+roomNum = 7
+roomName = Hedge Maze
+roomDimension = 30, 20, 35, 25
+ItemName = Loud Noise
+ItemDamage = 6
+
+the players are
+[b]
+pet=No pet
+target=No target
+
+Pick item is successful
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+move
+Please enter the player name to move
+a
+Please enter the room name to move
+Winter Garden
+player name = a
+player type = HUMAN
+player position =room num 2
+items = No items
+ 
+roomNum = 2
+roomName = Carriage House
+roomDimension = 28, 0, 35, 5
+ItemName = Big Red Hammer
+ItemDamage = 4
+
+the players are
+[a]
+pet=No pet
+target=No target
+
+Move successful to room 20
+current player info
+player name = a
+player type = HUMAN
+player position =room num 20
+items = No items
+ 
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+b
+Current roomdetails =
+roomNum = 7
+roomName = Hedge Maze
+roomDimension = 30, 20, 35, 25
+No Items in this room
+the players are
+[b]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = b, player type = HUMAN, player position = 7, items = [Loud Noise:6] 
+neighbors = [Green House, Piazza]
+Below is the neighbor details
+roomNum = 6
+roomName = Green House
+roomDimension = 28, 26, 35, 29
+ItemName = Trowel
+ItemDamage = 2
+ItemName = Pinking Shears
+ItemDamage = 2
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 15
+roomName = Piazza
+roomDimension = 28, 12, 35, 19
+ItemName = Civil War Cannon
+ItemDamage = 3
+
+no players
+pet=No pet
+target=No target
+
+
+
+
+Please enter any of these below commands
+
+addhumanplayer: this command will add a player
+
+addcomputer: this command will add a computer player
+
+computerAction: this command will take actions for computer player
+
+showTarget: this command will show the details of target to the players
+
+attackTarget: this command will display information of a player
+
+PokeInTheEye: this command will help the player having no items to attack the target
+
+move:this command will move a player to a specified space
+
+lookaround:this command will show displaying information about where a specific player
+
+pick:this command will let the player pick an item
+
+movepet:this command will move a pet to a new room
+
+showturn:this command will show which player's turn it is
+
+createmap:for displaying the map of the world
+
+q or Q: press this command to quit the game
+
+lookaround
+Please enter the player name to lookaround
+a
+Current roomdetails =
+roomNum = 20
+roomName = Winter Garden
+roomDimension = 30, 6, 35, 11
+No Items in this room
+the players are
+[a]
+pet=No pet
+target=No target
+
+Current playerdetails = 
+player name = a
+player type = HUMAN
+player position =room num 20
+items = No items
+ 
+neighbors = [Carriage House, Piazza]
+Below is the neighbor details
+roomNum = 2
+roomName = Carriage House
+roomDimension = 28, 0, 35, 5
+ItemName = Big Red Hammer
+ItemDamage = 4
+
+no players
+pet=No pet
+target=No target
+
+Below is the neighbor details
+roomNum = 15
+roomName = Piazza
+roomDimension = 28, 12, 35, 19
+ItemName = Civil War Cannon
+ItemDamage = 3
+
+no players
+pet=No pet
+target=No target
+
+
+The game is over as it reached max turns and target escaped
